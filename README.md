@@ -18,7 +18,7 @@
 --- 
 
 ### Access:
-- Visit the live portfolio [here]([https://your-portfolio-link.com](http://anudeephegde.tech/)
+- Visit the live portfolio [here][https://anudeephegde.tech](http://anudeephegde.tech/)
 
 ---
 
